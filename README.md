@@ -1,6 +1,7 @@
  ## Table of Contents
- -[About Me](https://github.com/aklage/Hello_World-/blob/main/README.md#about-me)
- -[Student Orgs](https://github.com/aklage/Hello_World-/blob/main/README.md#student-orgs)
+ 
+1.[About Me](https://github.com/aklage/Hello_World-/blob/main/README.md#about-me)</li>
+2.[Student Orgs](https://github.com/aklage/Hello_World-/blob/main/README.md#student-orgs)</li>
 3.[Leadership Experience](https://github.com/aklage/Hello_World-/blob/main/README.md#leadership-experience)
 4.[Special Skills](https://github.com/aklage/Hello_World-/blob/main/README.md#special-skills)
 5.[Hobbies](https://github.com/aklage/Hello_World-/blob/main/README.md#hobbies)
