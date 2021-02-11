@@ -1,9 +1,9 @@
  ## Table of Contents
-1.[About Me](https://github.com/aklage/Hello_World-/blob/main/README.md#about-me)
-2.[Student Orgs](https://github.com/aklage/Hello_World-/blob/main/README.md#student-orgs)
+ -[About Me](https://github.com/aklage/Hello_World-/blob/main/README.md#about-me)
+ -[Student Orgs](https://github.com/aklage/Hello_World-/blob/main/README.md#student-orgs)
 3.[Leadership Experience](https://github.com/aklage/Hello_World-/blob/main/README.md#leadership-experience)
 4.[Special Skills](https://github.com/aklage/Hello_World-/blob/main/README.md#special-skills)
-5.[Hobbies]
+5.[Hobbies](https://github.com/aklage/Hello_World-/blob/main/README.md#hobbies)
 # About Me 
 Hi there! My name is Allison Klage and I am a Junior at the University of Iowa studying Marketing and Business Analytics with a concentration in Retail Strategies and E-Commerce. 
 
